@@ -8,3 +8,4 @@ The goal of this course is to learn how to estimate distances with Stereo Geomet
 
 * YOLOv4 with Tensorflow 2: https://pypi.org/project/yolov4/
 
+* LiDAR-Camera Projections: https://github.com/darylclimb/cvml_project/tree/master/projections/lidar_camera_projection
